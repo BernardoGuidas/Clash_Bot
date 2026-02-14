@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1764469383449,
+      "tag": "0000_tearful_the_anarchist",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1764469973185,
+      "tag": "0001_charming_captain_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1764471954213,
+      "tag": "0002_nasty_praxagora",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1764473260007,
+      "tag": "0003_right_mad_thinker",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1764474186887,
+      "tag": "0004_dark_naoko",
+      "breakpoints": true
+    }
+  ]
+}
